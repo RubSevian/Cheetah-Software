@@ -1,4 +1,5 @@
 {
+
     "files.associations": {
         "*.tcc": "cpp",
         "complex": "cpp",
@@ -65,5 +66,6 @@
         "typeinfo": "cpp",
         "variant": "cpp"
     },
+
     "ros.distro": "noetic"
 }
